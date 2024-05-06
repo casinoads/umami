@@ -4,7 +4,7 @@ generator client {
 
 datasource db {
   provider     = "mysql"
-  url          = "postgres://shecom_user:JrBZjpBUbBCsKDSxIaZDtngUYsbUlLAG@dpg-cm9tcevqd2ns73drfeag-a.singapore-postgres.render.com/shecom"
+  url          = "mysql://anbuu:A8c^48xf7@amazing-grothendieck.45-136-237-181.plesk.page:3306/anbuu"
   relationMode = "prisma"
 }
 
